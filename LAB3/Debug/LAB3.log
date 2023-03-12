@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Dami\OneDrive\Desktop\CS216\LAB3\LAB3\Source.cpp(40,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Dami\OneDrive\Desktop\CS216\LAB3\LAB3\Source.cpp(147,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Dami\OneDrive\Desktop\CS216\LAB3\LAB3\Source.cpp(175,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LAB3.vcxproj -> C:\Users\Dami\OneDrive\Desktop\CS216\LAB3\Debug\LAB3.exe
