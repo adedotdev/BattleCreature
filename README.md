@@ -15,4 +15,4 @@
 <li>print(Creature[])</li>
 <li>reset(Creature[])</li>
 <li>battle(Creature[])</li>
-<li>getHealthLeft()</li>
+<li>getHealthLeft(int hitPoints, int totalHealth)</li>
